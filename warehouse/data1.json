@@ -1,0 +1,25 @@
+{
+    "Received": [
+        {
+            "Date": "Sep 20, 2020",
+            "WarehouseID": "5ao49ef7-7c67-41h2-80c7-07ahd7gb104e",
+            "ShippingPO": "8sjd2654-890d-47de-9auf-8y7hdb3877a9",
+            "ShipmentID": "1",
+            "BoxesRcvd": "2"
+        },
+        {
+            "Date": "Sep 19, 2020",
+            "WarehouseID": "5ao49ef7-7c67-41h2-80c7-07ahd7gb104e",
+            "ShippingPO": "73hys7e3-2sg4-4d6e-bs8g-8ds64h364632",
+            "ShipmentID": "2",
+            "BoxesRcvd": "3"
+        },
+        {
+            "Date": "Sep 18, 2020",
+            "WarehouseID": "5ao49ef7-7c67-41h2-80c7-07ahd7gb104e",
+            "ShippingPO": "8s8h3yd2-374h-4shc-9sy7-4uw7syh4d60",
+            "ShipmentID": "3",
+            "BoxesRcvd": "4"
+        }
+    ]
+}
