@@ -23,13 +23,13 @@ module.exports = async function (context, req) {
             headers: {
                 'Access-Control-Allow-Credentials': 'true',
                 'Access-Control-Allow-Methods': 'GET',
-                "Access-Control-Allow-Origin": "http://localhost:3000/"
+                "Access-Control-Allow-Origin": "https://wangyy-dolores.github.io/"
             },
             body: resources
         };
     } else {
         context.res = {
-            headers: {"Access-Control-Allow-Origin": "http://localhost:3000/"},
+            headers: {"Access-Control-Allow-Origin": "https://wangyy-dolores.github.io/"},
             body: []
         };
     }
